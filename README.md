@@ -1,6 +1,6 @@
 # WHMCS Developer Documentation
 
-This is the repository for the WHMCS Developer Documentation located at http://developers.whmcs.com/
+This is Documentation located at https://nurdinjaelani.github.io/develover-docs/
 
 We welcome you to create issues and submit pull requests for any suggestions, corrections and improvements you would like to see.
 
